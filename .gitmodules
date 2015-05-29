@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/mymodule"]
+	path = sites/all/modules/mymodule
+	url = https://github.com/nhufinney/mymodule_submodule_Drupal.git
